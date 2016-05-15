@@ -7,5 +7,8 @@
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="padd_left">16dp</dimen>
+    <dimen name="padd_right">16dp</dimen>
+    <dimen name="padd_bot">16dp</dimen>
 
 </resources>
